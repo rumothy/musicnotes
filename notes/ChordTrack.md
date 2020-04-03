@@ -1,6 +1,6 @@
-#Chord Track
+# Chord Track
 
-[trap 808's made super easy with studio one v4 - chord track]: https://www.youtube.com/watch?v=qSWw7mMcFsc
+[Trap 808's made super easy with studio one v4 - chord track](https://www.youtube.com/watch?v=qSWw7mMcFsc)
 
 - Impact XT
   - Set each pad to seperate output (bottom right - mono #)
