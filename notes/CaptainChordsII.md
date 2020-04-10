@@ -1,0 +1,22 @@
+# Captain Chords | First Impressions | Creating Super Bass & Melodies
+
+- Select Chord progresson, rrhythm & note length.k
+  - Alter chords to make fit.
+  - Drag MIDI to VST instrument.
+  - Experiment with chords (6th, 7th).
+  - Experiment with space.
+- Captian Melody
+  - Experiment: Keep tension constant. Vary rhythm & pattern.
+  - Experiment: Keep rhythm constant. Vary tension & pattern.
+  - Experiment: Keep pattern constant. Vary rhythm & tension.
+  - Drag to VST. Alter (use ghost notes).
+- Captain Deep
+  - Experiment: shape (constant/vary).
+  - Experiment: rhythm (constant/vary).
+  - Drag to VST. Use ghost notes to walk up or down.
+- Export track. Input to Serato
+  - Change key.
+  - Make patter
+- Add drums, bass.
+- Arrange.
+- Add effects.
