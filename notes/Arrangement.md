@@ -1,0 +1,22 @@
+# How to finish your beat with transitions & FX
+
+- Drums: Impact XT, Pattern, Variations
+  - Hook: regular hats, triplet hats.
+  - Verse.
+  - VerseB: remove regular hats.
+  - HookB: regular hats.
+  - Use a hi-hat loop.
+- Intro
+  - sample, last bar of bass
+- FX
+  - Drop: down-beat of new part - hook.
+  - Riser: 1 or 2 beats before a new part - lead into hook.
+  - Experiment with VST effects.
+  - Ambient FX on intro & silence.
+- Transitions
+  - Silence on last 4th beat before hook - use with an FX.
+  - Voice transition.
+- Hook
+  - 1 octave up on bass.
+- Arrangement
+  - Intro, HookA, HookB, VerseA, VerseB, Hook...
