@@ -2,6 +2,7 @@ const techniques = [
   {
     _id: 1,
     name: "technique1",
+    link: "",
     points: [
       {
         text: "t1-1",
@@ -25,6 +26,7 @@ const techniques = [
   {
     _id: 2,
     name: "technique2",
+    link: "",
     points: [
       { text: "t2-1" },
       {
@@ -48,6 +50,7 @@ const techniques = [
   {
     _id: 3,
     name: "technique3",
+    link: "",
     points: [
       { text: "t3-1" },
       { text: "t3-2" },
