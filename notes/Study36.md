@@ -1,0 +1,26 @@
+# A study of 36 Mafia's beats
+
+- You try to run
+  - |motif|motif'|
+  - |fx|fx'| for the feel of different samples.
+  - Or A-fx, B-fx', C-fx
+- Run yo mouf- ?
+- Come n get yo wig split
+  - Bass overwhelms other instruments as a feature.
+- Vol. 9 Shout outs
+  - Shout out friends and other artists.
+- Power hoe showa yo
+  - Constant bass as a part
+- Comin at yo ass
+  - Crazy bassline on chorus.
+  - Odd placed snares on part.
+- Let's run a train
+  - Intro arrangment.
+  - SongA, SongB
+  - SampleA, Outro, Intro, SampleB - all flow into each other.
+- Ridding through the hood
+- Step up to this nine bitch
+  - Very deep sine bass
+- Get a lil smoke
+  - Weird sfx is the star.
+  - Use sine for bass, no 808.
