@@ -1,0 +1,48 @@
+- Arrangment
+  - hkA: |no kick|-hkB|all|
+  - vsA: |-808, -kik, -snr, voc chp in place of snr, hih', smp' pichted down 1 oct|
+  - vsB: |-drm on bar 4-5|
+  - vsC: |-hih|
+  - vs\_: |bass & white noise only|
+- Arrangment default
+  - into,
+  - hkA, hkB,
+  - vsA, vsB, vsC,
+  - hkB, hkB,
+  - vsC, vsB, vsA,
+  - hkB, hkA,
+  - outro
+- Arrangment delayed satisfactions
+  - A, B, C, A', B', C', ... A, B, C; where C' = incomplete C
+- Arrangement Solo per instrument
+  - vsA|lead'-melody, counterMel, pad, bass|
+  - chrA|lead-melody, counterMel, pad, bass|
+  - vsB|lead'', counterMel'-melody, pad, bass|
+  - chrB|lead-melody, counterMel, pad, bass|
+- Variations
+  - Filtered thin intro, octave down 808, 2 octaves down 808
+  - Melody A'
+  - Section with strange FX
+- Transitions - 5 Beat HACKS to Sound Like the Pros |Seri Beats|
+  - Silence 1/2 bar end
+  - Silence 1 bar
+  - Snare roll at end
+  - Cut drum 1 bar end
+  - Cut drum 1/2 bar end
+  - Cut drums 1/4 bar start
+  - Scale down melody (walk down)
+  - Scale up melody (walk up)
+  - Crash or hit at begining of next part
+  - Riser (rev cymbal)
+  - Reversed reverb at end of part (bounce reverb tail of an instrument)
+  - Reversed reverb pitched up
+  - Reversed tape stop each 1 bar (bounce automated tape stop
+  - Automated Pitch down single note or group,
+  - Automated Picth up
+  - Automated Sweep up white noise - automate high frequency on EQ - sweep right
+  - Scratch
+  - Stutter - Beginning of next beat at end of current
+  - Stutter2 - Beginning of next beat at end of current twice
+  - Stutter2 Pitched - Beginning of next beat at end of current twice, 2nd pitched up
+  - End of next beat at end of current
+  - Combination

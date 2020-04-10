@@ -1,0 +1,56 @@
+# How To Finish A Song
+
+- STEP 1: Preparation
+  - Have all parts by other people (vocals, guitar…) ready and perfectly recorded.
+  - Make sure you have everything you need to get started (DAW, plugins, samples, autoload, routing, NO DISTRACTIONS etc.)
+- STEP 2: Songwriting
+  - Start with a chord progression
+  - Write a catchy vocal melody or main instrument melody (this will break or make your song)
+  - Added melodies, counter melodies, arpeggiators...
+  - Add sustained elements: pads, atmospheres, subtle background melos or noises.
+- STEP 3: Sound Design
+  - Find fitting presets & samples
+  - Tweak these sounds to your liking
+  - Layer sounds
+  - Consider distortion
+  - Apply the first creative EQing
+  - Add your rough reverb and delay
+  - Get creative & take your time
+- STEP 4: Arrangement
+  - Create a clear structure:
+  - Pop Songs: Verse / Pre-Chorus / Chorus / Verse / Pre-Chorus / Chorus / Bridge / Chorus
+  - Club Songs: Intro / Build Up / Drop / Build Up / Drop / Outro
+  - Create transitions
+  - Add FX
+  - Crate automations
+  - Make sure the song has an arc of tension (last chorus full and epic)
+  - Add earcandy (this is essential to make sure song sound "finished")
+  - Do not repeat to much this gets boring really fast
+- STEP 5: Mixing
+  - Start with a rough mix (increasing / decreasing volumes of every track)
+  - Now go through every single track, listen to it in solo & in the mix + consider all of the following things:
+  - Adding a high-pass filter (almost every time)
+  - EQing (shaping the sound to sound better in the mix)
+  - Compression (usually less than you think)
+    - always on vocals and self recorded track, but not on samples necessarily etc.
+    - Panning and widening (iZotope’s Imager is a great free plugin for this)
+  - Saturation and distortion (use with moderation)
+  - Fine tune your Reverbs & Delays (EQ them as well)
+  - Mid/side EQing only if really needed
+  - Dynamics EQs good for resonating/disturbing frequencies
+  - Check again for clicks, breaths and noises they might be louder due to compression.
+- STEP 6: Referencing
+  - Listen to your own song a couple times and write down everything that doesn’t work and needs to be fixed.
+  - Repeat the same with producer friends (that know what they’re talking about)
+    - Try what they suggest, but at the end it’s your call, you are the producer.
+  - Test on other systems and compare your song to professional productions
+- STEP 7: Mastering
+  - If it’s a commercial release, let someone else master it. For a rough demo to play in the club or send it as a demo you can master it yourself.
+  - EQ
+  - Compression
+  - Limiting (at least -14 LUFS, don’t go too loud to avoid distortion)
+  - DON’T OVERDO IT!!!
+  - If the master changes the sound by more than 5% you should probably go back to mixing
+  - Don’t know how to master? Try izotope Ozone the presets are good starting points.
+- STEP 8: Release & Promotion
+  - Will be covered soon in another PDF

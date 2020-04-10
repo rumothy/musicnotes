@@ -1,0 +1,61 @@
+# 16 Levels of Piano Composition: Easy to Complex | WIRED
+
+[16 Levels of Piano Composition: Easy to Complex | WIRED](https://www.youtube.com/watch?v=m6buIdQacoM)
+
+- Melody
+  - One note bassline 1
+  - Two note bassline 1+7
+  - Chord bassline
+  - Arpeggio - on chord, broken chords
+  - Genre form (waltz, funk, rumba, stride)
+  - Melodic embellishment - add notes around melody,
+  - 2-Voice melody-high - 2nd voice, original melody
+  - 2-Voice melody-low - original melody, 2nd voice
+  - 3-Voice melody - 3rd voice, original melody, 2nd voice
+  - 4-Beat Rhythm
+  - 5-Beat Rhythm
+  - Harmony manipulation
+  - Extended Harmony
+  - Melody manipulation
+  - All levels combined
+- Harmony manipulation
+  - extentions - any addition notes beyond the first 3 notes of a chord
+  - harmonic progression - the order of chords accompanying a melody
+  - scale - an organized sequence of notes
+  - scale arragement - starting your scale on a different note than the first note, this is also known as a "mode"
+  - polytonality - combining two different key centers together
+- Melody manipulation
+  - melody backwards
+  - melody upside down
+  - upside down + backwards
+  - fragmentation
+  - elongated melody
+- Other techniques
+  - Broken octaves repeated notes
+  - Broken chords
+  - Chromatic embellishments
+  - Wide intervals
+  - Large leaps in left hand
+  - Wide chord
+  - Repeated chords
+  - Glissando
+  - Chord resolution
+  - lines moving in different directions
+  - Single note (level 1 Melody)
+  - Melody in odd meter (level 11 & 12 4 & 5-Beat Rhythm)
+  - Trill (level 7 - Melodic embellishment)
+  - staggered leaps (level 15 Melody manipulation)
+  - Rhythmic fragmentation (level 15 Melody manipulation)
+  - bassline shift (scale arrangement) (level 13 Harmony manipulation)
+  - Reinforced bassline
+  - meter change (level 11 & 12 4 & 5-Beat Rhythm )
+  - harmonic shift (level 14 Extended Harmony)
+  - 9 against 5 polyrhythm (level 11 & 12 4 & 5-Beat Rhythm)
+  - Arpeggio with turn around (level 5 Arpeggio)
+  - Displaced melody (level 15 Melody manipulation)
+  - Condenced melody (level 15 Melody manipulation)
+  - 3 against 2 polyrhythm (level 11 & 12 4 & 5-Beat Rhythm)
+  - Immitation with extentions (level 13 Harmony manipulation)
+  - Condenced melody with octaves and chords (level 15 Melody manipulation)
+  - Chords with extentions (level 13 Harmony manipulation)
+  - Octaves (level 15 Melody manipulation)

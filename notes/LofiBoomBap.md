@@ -1,0 +1,27 @@
+# Lofi
+
+- 70 - 90 bpm
+- Drag in bass note
+- Drums
+  - Kick: |o...|...o|o...|....| |o...|...o|o...|....| ->repeat
+  - Snare: |....|o...|....|o...| -> repeat 3
+  - hi hats: |o...|....|o...|....| -> repeat 3
+- Add precusion loop
+- Swing drums
+- Put loop into serato sample - set random
+  - note: SS loop 1st half = verse, 2nd half = chorus
+  - record 2 chops
+    - experiment with half timinng it
+    - pitch up for 90s hip hop feel - increast tempo to 90 bpm
+- Add Subass
+- Modify kick from base
+- Side chain so that everything ducks the kick
+  - atk .10ms, release 50 ms, 6 to 12 db of reduction
+- Effects
+  - Snare - plate verb
+  - Sample - hall verb
+  - Sub bass
+    - vitamin: direct -21, Lo 37, LoMid 25, Mid 25, HiMid 37, H 24
+    - L2
+  - Perc loop - binaural pan 140%
+  - Ambience - binaural pan 70%
